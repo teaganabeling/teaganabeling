@@ -14,9 +14,9 @@ Skilled in CAD, data analysis, and hands-on prototyping, combining technical pre
 ---
 
 ## 🛠️ Projects  
-- **Reinforcement Learning Library** – Implemented Q-Learning, SARSA, DQN, PPO, and A2C in NumPy; tested on custom Gridworld and CartPole.  
+- **[Reinforcement Learning Library](https://github.com/teaganabeling/rl-from-scratch)** – Implemented Q-Learning, SARSA, DQN, PPO, and A2C in NumPy; tested on custom Gridworld and CartPole.  
 - **Rotary Inverted Pendulum** – Designed and simulated PID/LQR controllers in MATLAB for a Furuta-style pendulum.  
-- **[Servo-Driven Stewart Platform](https://github.com/teaganabeling/rl-from-scratch)** – 6-DOF parallel mechanism controlled with Arduino Nano and 3D-printed components.  
+- **Servo-Driven Stewart Platform** – 6-DOF parallel mechanism controlled with Arduino Nano and 3D-printed components.  
 
 ---
 
