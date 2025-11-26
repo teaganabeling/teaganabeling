@@ -9,7 +9,7 @@ Skilled in CAD, data analysis, and hands-on prototyping, combining technical pre
 - **Programming:** C, C++, Python, SQL  
 - **Libraries & Frameworks:** PyTorch, TensorFlow  
 - **Scientific Tools:** MATLAB  
-- **Design & Prototyping:** CAD, 2D/3D design, rapid prototyping  
+- **Design & Prototyping:** CAD, 2D/3D design, prototyping  
 
 ---
 
